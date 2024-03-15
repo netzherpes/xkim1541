@@ -8,6 +8,8 @@ Modified by Netzherpes <<webdoktor@netzherpes.de>> to start code at $A000 and co
 
 Modified 18 Feb 2024 by Eduardo Casino <<mail@eduardocasino.es>>:
 
+Modified 15 Mar 2024 by Netzherpes to be used with the PAL-1 computer 
+
 * General cleanup
 * Adjust ACPTR timeout to avoid false EOI detections
 * Optimize ZP usage
