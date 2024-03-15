@@ -3,7 +3,7 @@
 #           unused page 0 location if using KB9
 # BSSINIT : Start address for xkim1541 variables in the application RAM
 #
-OFFSET = F000
+OFFSET = DA00
 ZPINIT = E9
 BSSINIT= 17D6
 
